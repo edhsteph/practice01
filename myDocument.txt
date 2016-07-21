@@ -1,1 +1,2 @@
 This is an exercise to learn Git.
+This is my second line of text.
